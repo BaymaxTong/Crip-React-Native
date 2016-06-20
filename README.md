@@ -4,4 +4,10 @@
 
   
 #具体的效果图如下
-![image](https://github.com/BaymaxTong/VolleyImage/blob/master/loading.gif)
+![image](https://github.com/BaymaxTong/Crip-React-Native/blob/master/screenshot/Screenshot01.png)
+
+![image](https://github.com/BaymaxTong/Crip-React-Native/blob/master/screenshot/Screenshot02.png)
+
+![image](https://github.com/BaymaxTong/Crip-React-Native/blob/master/screenshot/Screenshot03.png)
+
+底部的Bar还没有处理
