@@ -4,9 +4,12 @@
 
   
 #具体的效果图如下
-![image](https://github.com/BaymaxTong/Crip-React-Native/blob/master/screenshot/Screenshot01.png)
+
+<img src="./screenshot/Screenshot02.png" width = "300" height = "200" alt="这是首页的效果图" align=center />
 
 ![image](https://github.com/BaymaxTong/Crip-React-Native/blob/master/screenshot/Screenshot02.png)
+
+![image](https://github.com/BaymaxTong/Crip-React-Native/blob/master/screenshot/Screenshot01.png)
 
 ![image](https://github.com/BaymaxTong/Crip-React-Native/blob/master/screenshot/Screenshot03.png)
 
